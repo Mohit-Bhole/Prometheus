@@ -255,8 +255,8 @@ This project is developed strictly for **defensive cybersecurity research and ed
 ## 👥 Team
 
 **Neon Genesis**
-- @Mohit-Bhole            
 - @ankushkhakale               
+- @Mohit-Bhole            
 - @Aj1185    
 ---
 
